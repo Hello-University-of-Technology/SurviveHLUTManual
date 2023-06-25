@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: '哈啰工业大学生存手册',
+  tagline: '面向哈啰工业大学本科生的一点建议（施工中）',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -43,14 +43,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Hello-University-of-Technology/SurviveHLUTManual/blob/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Hello-University-of-Technology/SurviveHLUTManual/blob/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -65,9 +65,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: '哈工大手册',
         logo: {
-          alt: 'My Site Logo',
+          alt: '哈工大手册 Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -123,12 +123,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Hello-University-of-Technology/SurviveHLUTManual',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 署名-相同方式共享 4.0 国际 (CC BY-SA 4.0) . Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
