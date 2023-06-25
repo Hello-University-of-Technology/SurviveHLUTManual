@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://survive.hlut.win/blog</id>
-    <title>My Site Blog</title>
+    <title>哈啰工业大学生存手册 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://survive.hlut.win/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>哈啰工业大学生存手册 Blog</subtitle>
     <icon>https://survive.hlut.win/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
