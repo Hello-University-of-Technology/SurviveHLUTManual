@@ -26,12 +26,12 @@ function HomepageHeader() {
   );
 }
 
-export default function Home() {
+export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`首页`}
-      description="Description will go into a meta tag in <head />">
+      title={`欢迎来到${siteConfig.title}`}
+      description="开放、互助、共建、共享。帮你在大学少走弯路！">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

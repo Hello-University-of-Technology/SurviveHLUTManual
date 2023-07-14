@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '哈啰工业大学生存手册',
-  tagline: '面向哈啰工业大学本科生的一点建议（施工中）',
+  tagline: '开放、互助、共建、共享。帮你在大学少走弯路！（施工中）',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
