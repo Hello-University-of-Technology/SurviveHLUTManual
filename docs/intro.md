@@ -12,9 +12,9 @@ sidebar_position: 1
 
 ## 需要你的帮助！
 
-欢迎加入[讨论 QQ 群](https://qm.qq.com/cgi-bin/qm/qr?k=PN-UfQoIQAz6aRqX3ktWqLub0C1Yl1gy&jump_from=webapi&authKey=gCHdVmi1J6/RXmnT97G+n7K1Kd88VuO0arLHFTCdBiPEG+q3I4FAlHk/FbI6JANS)参与贡献。如果您有 GitHub 账号也可以直接去 [repo](https://github.com/Hello-University-of-Technology/SurviveHLUTManual) 开 Issue/Discussion.
+欢迎加入[讨论 QQ 群](https://qm.qq.com/cgi-bin/qm/qr?k=PN-UfQoIQAz6aRqX3ktWqLub0C1Yl1gy&jump_from=webapi&authKey=gCHdVmi1J6/RXmnT97G+n7K1Kd88VuO0arLHFTCdBiPEG+q3I4FAlHk/FbI6JANS)。如果您有 GitHub 账号也可以直接去 [repo](https://github.com/Hello-University-of-Technology/SurviveHLUTManual) 开 Issue/Discussion.
 
-欢迎您的贡献！目前笔者认为网站主要缺少下列内容，当然如果你有其他想法也欢迎找我讨论。
+欢迎您的贡献！目前笔者认为网站主要缺少下列内容，当然如果你有其他想法也欢迎发邮件找我讨论：`yuqiu36 (at) live.com`.
 
 - 推免相关政策。保研/直博经验分享。
 - 出国（境）留学申请经验分享。
