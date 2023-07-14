@@ -29,8 +29,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh-Hans',
+    locales: ['zh-Hans'],
   },
 
   presets: [
@@ -75,11 +75,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '手册',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '更新记录', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Hello-University-of-Technology/SurviveHLUTManual',
             label: 'GitHub',
             position: 'right',
           },
@@ -89,38 +89,26 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '导航',
             items: [
               {
-                label: 'Tutorial',
+                label: '生存手册',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: '社区',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'QQ 群',
+                href: 'https://qm.qq.com/cgi-bin/qm/qr?k=PN-UfQoIQAz6aRqX3ktWqLub0C1Yl1gy&jump_from=webapi&authKey=gCHdVmi1J6/RXmnT97G+n7K1Kd88VuO0arLHFTCdBiPEG+q3I4FAlHk/FbI6JANS',
               },
             ],
           },
           {
-            title: 'More',
+            title: '更多',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/Hello-University-of-Technology/SurviveHLUTManual',
@@ -128,7 +116,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 署名-相同方式共享 4.0 国际 (CC BY-SA 4.0) . Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 署名-相同方式共享 4.0 国际 (CC BY-SA 4.0) . 使用 Docusaurus 构建。`,
       },
       prism: {
         theme: lightCodeTheme,
