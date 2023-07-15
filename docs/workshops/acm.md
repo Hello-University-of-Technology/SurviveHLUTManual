@@ -133,3 +133,7 @@ IDE (integrated development environment, 集成开发环境) 通俗地理解就�
 ### 加入 ACM 协会有什么福利？ 
 
 协会每年有社团时长20h和学生工作加分，每个部门都会进行算法相关的入门基础培训，帮助协会新生在新生杯获得更好的成绩。
+
+## 轶事
+
+“ACM 集训队”名字中的 “ACM” 是美国计算机学会 (Association for Computing Machinery) 的缩写。这跟集训队有什么关系呢？其实原本 ACM 每年赞助 ICPC 也即国际大学生程序设计竞赛，所以称其为 ACM-ICPC. 如今 ACM 已经不再赞助，也就被从名字里去掉了。“ACM” 现在有了很多种含义：计算机学会本身、算法竞赛的统称以及特指 ICPC.

@@ -65,9 +65,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '哈工大手册',
+        title: '哈啰工业大学生存手册',
         logo: {
-          alt: '哈工大手册 Logo',
+          alt: '哈啰工业大学生存手册 Logo',
           src: 'img/logo.svg',
         },
         items: [
