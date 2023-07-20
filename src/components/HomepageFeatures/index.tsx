@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: '大学生活丰富多彩，不知如何选择？',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        生存手册中介绍了各工作室、科研团队是做什么的，以及如何加入他们。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '想要转专业/保研/出国，不知怎么努力？',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        生存手册中（将来可能会）有师兄师姐为你详细分享经验。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Made by HLUTers, for HLUTers.',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        倡导开放互助，欢迎分享你的经验让别人少走弯路。
       </>
     ),
   },
